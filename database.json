@@ -21,16 +21,50 @@
         {
             "id": 1,
             "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct"
+            "address": "7002 Chestnut Ct",
+            "animalId": 1
         },
 
         {
             "id": 2,
             "name": "Mercedes Hawk",
-            "address": "417 Happy St"
+            "address": "417 Happy St",
+            "animalId": 2
+        },
+
+        {
+            "id": 3,
+            "name": "Tiara Deshun",
+            "address": "123 Sunshine Way",
+            "animalId": 1
+        }
+
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Anna Lee",
+            "locationId": 1
+        },
+
+        {
+            "id": 2,
+            "name": "Jaielle Michelle",
+            "locationId": 2
+        },
+
+        {
+            "id": 3,
+            "name": "Rickema Lateefah",
+            "locationId": 1
+        },
+
+        {
+            "id": 4,
+            "name": "Lessie Lacy",
+            "locationId": 2
         }
     ],
-    "employees": [],
     "locations": [
         {
             "id": 1,
