@@ -1,80 +1,86 @@
 {
-    "animals": [
-        {
-            "id": 1,
-            "name": "Doodles",
-            "breed": "Poodle",
-            "customerId": 1,
-            "locationId": 2
-        },
-
-        {
-            "id": 2,
-            "name": "Peaches",
-            "breed": "Daschund",
-            "customerId": 2,
-            "locationId": 3
-
-        }
-    ],
-    "customers": [
-        {
-            "id": 1,
-            "name": "Hannah Hall",
-            "address": "7002 Chestnut Ct",
-            "animalId": 1
-        },
-
-        {
-            "id": 2,
-            "name": "Mercedes Hawk",
-            "address": "417 Happy St",
-            "animalId": 2
-        },
-
-        {
-            "id": 3,
-            "name": "Tiara Deshun",
-            "address": "123 Sunshine Way",
-            "animalId": 1
-        }
-
-    ],
-    "employees": [
-        {
-            "id": 1,
-            "name": "Anna Lee",
-            "locationId": 1
-        },
-
-        {
-            "id": 2,
-            "name": "Jaielle Michelle",
-            "locationId": 2
-        },
-
-        {
-            "id": 3,
-            "name": "Rickema Lateefah",
-            "locationId": 1
-        },
-
-        {
-            "id": 4,
-            "name": "Lessie Lacy",
-            "locationId": 2
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "name": "Nashville North",
-            "address": "8422 Johnson Pike"
-        },
-        {
-            "id": 2,
-            "name": "Nashville South",
-            "address": "209 Emory Drive"
-        }
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Peaches",
+      "breed": "Daschund",
+      "customerId": 2,
+      "locationId": 3
+    },
+    {
+      "name": "Tatiana",
+      "breed": "j",
+      "locationId": 1,
+      "customerId": 1,
+      "id": 3
+    },
+    {
+      "name": "Dasha",
+      "breed": "puppy",
+      "locationId": 2,
+      "customerId": 3,
+      "id": 4
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct",
+      "animalId": 1
+    },
+    {
+      "id": 2,
+      "name": "Mercedes Hawk",
+      "address": "417 Happy St",
+      "animalId": 2
+    },
+    {
+      "id": 3,
+      "name": "Tiara Deshun",
+      "address": "123 Sunshine Way",
+      "animalId": 1
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Anna Lee",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jaielle Michelle",
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Rickema Lateefah",
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Lessie Lacy",
+      "locationId": 2
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
 }
