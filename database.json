@@ -27,6 +27,20 @@
       "locationId": 2,
       "customerId": 3,
       "id": 4
+    },
+    {
+      "name": "Bubble",
+      "breed": "little",
+      "locationId": 2,
+      "customerId": 3,
+      "id": 5
+    },
+    {
+      "name": "Lucky",
+      "breed": "Big Dog",
+      "locationId": 2,
+      "customerId": 2,
+      "id": 6
     }
   ],
   "customers": [
@@ -69,6 +83,11 @@
       "id": 4,
       "name": "Lessie Lacy",
       "locationId": 2
+    },
+    {
+      "name": "Tatiana",
+      "locationId": 1,
+      "id": 5
     }
   ],
   "locations": [
@@ -81,6 +100,20 @@
       "id": 2,
       "name": "Nashville South",
       "address": "209 Emory Drive"
+    },
+    {
+      "name": "Big Town",
+      "address": "103 HILLTOP DRIVE",
+      "employeeId": 2,
+      "animalId": 3,
+      "id": 3
+    },
+    {
+      "name": "Testing Location Page",
+      "address": "417 Happy Sunshine Street",
+      "employeeId": 2,
+      "animalId": 2,
+      "id": 4
     }
   ]
 }
