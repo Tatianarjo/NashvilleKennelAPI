@@ -41,6 +41,27 @@
       "locationId": 2,
       "customerId": 2,
       "id": 6
+    },
+    {
+      "name": "Pink",
+      "breed": "little dog",
+      "locationId": 3,
+      "customerId": 1,
+      "id": 7
+    },
+    {
+      "name": "Doggy Dog",
+      "breed": "Baby Dog",
+      "locationId": 1,
+      "customerId": 2,
+      "id": 8
+    },
+    {
+      "name": "Lil Girl",
+      "breed": "Dog Dog",
+      "locationId": 1,
+      "customerId": 2,
+      "id": 9
     }
   ],
   "customers": [
@@ -48,19 +69,22 @@
       "id": 1,
       "name": "Hannah Hall",
       "address": "7002 Chestnut Ct",
-      "animalId": 1
+      "animalId": 1,
+      "email": "tatianarjo@gmail.com"
     },
     {
       "id": 2,
       "name": "Mercedes Hawk",
       "address": "417 Happy St",
-      "animalId": 2
+      "animalId": 2,
+      "email": "peaches@peaches.com"
     },
     {
       "id": 3,
       "name": "Tiara Deshun",
       "address": "123 Sunshine Way",
-      "animalId": 1
+      "animalId": 1,
+      "email": "test@test.com"
     }
   ],
   "employees": [
@@ -88,18 +112,32 @@
       "name": "Tatiana",
       "locationId": 1,
       "id": 5
+    },
+    {
+      "name": "Mary Jane Blige",
+      "locationId": 2,
+      "id": 6
+    },
+    {
+      "name": "Peache",
+      "locationId": 2,
+      "id": 7
     }
   ],
   "locations": [
     {
       "id": 1,
       "name": "Nashville North",
-      "address": "8422 Johnson Pike"
+      "address": "8422 Johnson Pike",
+      "employeeId": 2,
+      "animalId": 3
     },
     {
       "id": 2,
       "name": "Nashville South",
-      "address": "209 Emory Drive"
+      "address": "209 Emory Drive",
+      "employeeId": 2,
+      "animalId": 3
     },
     {
       "name": "Big Town",
@@ -114,6 +152,41 @@
       "employeeId": 2,
       "animalId": 2,
       "id": 4
+    },
+    {
+      "name": "Trying a location",
+      "address": "123 Sunshine HappyStreet",
+      "employeeId": 2,
+      "animalId": 3,
+      "id": 5
+    },
+    {
+      "name": "Trying a location",
+      "address": "123 Sunshine HappyStreet",
+      "employeeId": 2,
+      "animalId": 3,
+      "id": 6
+    },
+    {
+      "name": "I don't knn",
+      "address": "what",
+      "employeeId": 2,
+      "animalId": 1,
+      "id": 7
+    },
+    {
+      "name": "f",
+      "address": "dfd",
+      "employeeId": 2,
+      "animalId": 1,
+      "id": 8
+    },
+    {
+      "name": "fgfd",
+      "address": "fdf",
+      "employeeId": 1,
+      "animalId": 2,
+      "id": 9
     }
   ]
 }
