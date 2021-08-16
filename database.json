@@ -8,13 +8,6 @@
       "locationId": 2
     },
     {
-      "id": 2,
-      "name": "Peaches",
-      "breed": "Daschund",
-      "customerId": 2,
-      "locationId": 3
-    },
-    {
       "name": "Tatiana",
       "breed": "j",
       "locationId": 1,
@@ -71,13 +64,6 @@
       "address": "7002 Chestnut Ct",
       "animalId": 1,
       "email": "tatianarjo@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Mercedes Hawk",
-      "address": "417 Happy St",
-      "animalId": 2,
-      "email": "peaches@peaches.com"
     },
     {
       "id": 3,
@@ -147,13 +133,6 @@
       "id": 3
     },
     {
-      "name": "Testing Location Page",
-      "address": "417 Happy Sunshine Street",
-      "employeeId": 2,
-      "animalId": 2,
-      "id": 4
-    },
-    {
       "name": "Trying a location",
       "address": "123 Sunshine HappyStreet",
       "employeeId": 2,
@@ -180,13 +159,6 @@
       "employeeId": 2,
       "animalId": 1,
       "id": 8
-    },
-    {
-      "name": "fgfd",
-      "address": "fdf",
-      "employeeId": 1,
-      "animalId": 2,
-      "id": 9
     }
   ]
 }
