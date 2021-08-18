@@ -1,164 +1,121 @@
 {
   "animals": [
     {
-      "id": 1,
-      "name": "Doodles",
-      "breed": "Poodle",
-      "customerId": 1,
-      "locationId": 2
-    },
-    {
-      "name": "Tatiana",
-      "breed": "j",
-      "locationId": 1,
-      "customerId": 1,
-      "id": 3
-    },
-    {
-      "name": "Dasha",
-      "breed": "puppy",
-      "locationId": 2,
-      "customerId": 3,
-      "id": 4
-    },
-    {
-      "name": "Bubble",
-      "breed": "little",
-      "locationId": 2,
-      "customerId": 3,
-      "id": 5
-    },
-    {
-      "name": "Lucky",
-      "breed": "Big Dog",
-      "locationId": 2,
-      "customerId": 2,
-      "id": 6
-    },
-    {
       "name": "Pink",
       "breed": "little dog",
-      "locationId": 3,
+      "locationId": 7,
       "customerId": 1,
       "id": 7
     },
     {
-      "name": "Doggy Dog",
-      "breed": "Baby Dog",
-      "locationId": 1,
-      "customerId": 2,
+      "name": "Little Dog Man",
+      "breed": "Big Puppy",
+      "locationId": 8,
+      "customerId": 1,
       "id": 8
     },
     {
-      "name": "Lil Girl",
-      "breed": "Dog Dog",
-      "locationId": 1,
-      "customerId": 2,
+      "name": "Baby Love",
+      "breed": "a cute breed",
+      "locationId": 7,
+      "customerId": 1,
       "id": 9
+    },
+    {
+      "name": "Mister Tickles The Third",
+      "breed": "A really cute breed",
+      "locationId": 7,
+      "customerId": 1,
+      "id": 10
+    },
+    {
+      "name": "Purple",
+      "breed": "Extremely cute dog",
+      "locationId": 9,
+      "customerId": 2,
+      "id": 11
     }
   ],
   "customers": [
     {
       "id": 1,
       "name": "Hannah Hall",
-      "address": "7002 Chestnut Ct",
-      "animalId": 1,
-      "email": "tatianarjo@gmail.com"
+      "address": "7002 Chestnut Ct"
     },
     {
-      "id": 3,
-      "name": "Tiara Deshun",
-      "address": "123 Sunshine Way",
-      "animalId": 1,
-      "email": "test@test.com"
+      "id": 2,
+      "name": "Lindsay Vanderberg",
+      "address": "584 10th Avenue"
     }
   ],
   "employees": [
     {
       "id": 1,
       "name": "Anna Lee",
-      "locationId": 1
+      "locationId": 7
     },
     {
       "id": 2,
       "name": "Jaielle Michelle",
-      "locationId": 2
+      "locationId": 8
     },
     {
       "id": 3,
       "name": "Rickema Lateefah",
-      "locationId": 1
+      "locationId": 7
     },
     {
       "id": 4,
       "name": "Lessie Lacy",
-      "locationId": 2
+      "locationId": 9
     },
     {
       "name": "Tatiana",
-      "locationId": 1,
+      "locationId": 7,
       "id": 5
     },
     {
       "name": "Mary Jane Blige",
-      "locationId": 2,
+      "locationId": 8,
       "id": 6
     },
     {
       "name": "Peache",
-      "locationId": 2,
+      "locationId": 8,
       "id": 7
+    },
+    {
+      "name": "Anna Marie",
+      "locationId": 3,
+      "id": 8
+    },
+    {
+      "name": "Tiffany",
+      "locationId": 2,
+      "id": 9
     }
   ],
   "locations": [
     {
-      "id": 1,
-      "name": "Nashville North",
-      "address": "8422 Johnson Pike",
-      "employeeId": 2,
-      "animalId": 3
-    },
-    {
-      "id": 2,
-      "name": "Nashville South",
-      "address": "209 Emory Drive",
-      "employeeId": 2,
-      "animalId": 3
-    },
-    {
-      "name": "Big Town",
-      "address": "103 HILLTOP DRIVE",
-      "employeeId": 2,
-      "animalId": 3,
-      "id": 3
-    },
-    {
-      "name": "Trying a location",
-      "address": "123 Sunshine HappyStreet",
-      "employeeId": 2,
-      "animalId": 3,
-      "id": 5
-    },
-    {
-      "name": "Trying a location",
-      "address": "123 Sunshine HappyStreet",
-      "employeeId": 2,
-      "animalId": 3,
-      "id": 6
-    },
-    {
-      "name": "I don't knn",
-      "address": "what",
-      "employeeId": 2,
-      "animalId": 1,
+      "name": "The Hills (Seeing why other stuff isn't popping up right now)",
+      "address": "417 Grateful Drive",
+      "employeeId": 6,
+      "animalId": 7,
       "id": 7
     },
     {
-      "name": "f",
-      "address": "dfd",
-      "employeeId": 2,
-      "animalId": 1,
+      "name": "Cairo ",
+      "address": "123 Pyramid Avenue",
+      "employeeId": 9,
+      "animalId": 8,
       "id": 8
+    },
+    {
+      "name": "East Nashville",
+      "address": "Eastside",
+      "employeeId": 9,
+      "animalId": 9,
+      "id": 9
     }
   ]
 }
