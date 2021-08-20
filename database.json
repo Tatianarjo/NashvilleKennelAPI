@@ -29,11 +29,24 @@
       "id": 10
     },
     {
-      "name": "Purple",
-      "breed": "Extremely cute dog",
+      "id": 11,
+      "name": "Yellow",
+      "locationId": 9,
+      "customerId": 2
+    },
+    {
+      "name": "Ashanti",
+      "breed": "Medium Puppy",
+      "locationId": 8,
+      "customerId": 2,
+      "id": 12
+    },
+    {
+      "name": "RiRi",
+      "breed": "Wolf",
       "locationId": 9,
       "customerId": 2,
-      "id": 11
+      "id": 13
     }
   ],
   "customers": [
@@ -93,6 +106,16 @@
       "name": "Tiffany",
       "locationId": 2,
       "id": 9
+    },
+    {
+      "name": "LeJon",
+      "locationId": 10,
+      "id": 10
+    },
+    {
+      "name": "Dasha LaCeeCee",
+      "locationId": 9,
+      "id": 11
     }
   ],
   "locations": [
@@ -116,6 +139,20 @@
       "employeeId": 9,
       "animalId": 9,
       "id": 9
+    },
+    {
+      "name": "The Wild West",
+      "address": "Optimistic Lane",
+      "employeeId": 6,
+      "animalId": 12,
+      "id": 10
+    },
+    {
+      "name": "Yonkers",
+      "address": "School Street",
+      "employeeId": 11,
+      "animalId": 10,
+      "id": 11
     }
   ]
 }
