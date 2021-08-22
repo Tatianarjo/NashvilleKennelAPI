@@ -15,11 +15,10 @@
       "id": 8
     },
     {
-      "name": "Baby Love",
-      "breed": "a cute breed",
+      "id": 9,
+      "name": "Baby Baby Love",
       "locationId": 7,
-      "customerId": 1,
-      "id": 9
+      "customerId": 1
     },
     {
       "name": "Mister Tickles The Third",
